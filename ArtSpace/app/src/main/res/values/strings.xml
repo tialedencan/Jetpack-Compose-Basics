@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="dog">Lino</string>
+    <string name="flowers">Blue flowers</string>
+    <string name="title1">Lino The Dog</string>
+    <string name="description1">Tia(2020)</string>
+    <string name="title2">Myosotis</string>
+    <string name="description2">Tia(2021)</string>
+    <string name="next">Next</string>
+    <string name="back">Back</string>
+</resources>
