@@ -55,6 +55,7 @@ class RaceParticipant(
             throw e // Always re-throw CancellationException.
         }
     }
+
         /**
      * Regardless of the value of [initialProgress] the reset function will reset the
      * [currentProgress] to 0
