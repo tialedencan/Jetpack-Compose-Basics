@@ -8,7 +8,7 @@ import kotlinx.coroutines.test.runTest
 import org.junit.Test
 
 class NetworkMarsPhotosRepositoryTest {
-    
+
     @Test
     fun networkMarsPhotosRepository_getMarsPhotos_verifyPhotoList() =
         runTest {
